@@ -9,7 +9,7 @@ import { RegisterPageComponent } from './auth/pages/register-page/register-page.
 @NgModule({
   declarations: [
     AppComponent,
-    RegisterPageComponent
+    //RegisterPageComponent
   ],
   imports: [
     BrowserModule,
